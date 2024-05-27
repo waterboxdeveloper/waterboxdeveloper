@@ -1,4 +1,4 @@
-# 💫 Data Analyst:
+# 💫 Data Analyst-Software Dev - Economist:
 <br><br>Hello! I'm Eduardo Guzmán Castañón, @EconomyC0der <br><br>I'm passionate about technology and how it can be a tool to create solutions that improve our world.<br>I hold a Bachelor's degree in Economics from UASLP, where I developed my numerical and analytical skills. This led me to explore the world of data analysis, where I encountered software development. It was there that I fell in love with Python and SQL, languages that have allowed me to enhance my capabilities as a data analyst.<br>I love learning new things and I'm always looking for new challenges and opportunities to put my knowledge into practice and contribute positively to the world.<br><br>Are you passionate about technology like I am? Don't hesitate to contact me to chat or collaborate on a project!
 
 
