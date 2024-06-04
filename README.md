@@ -1,4 +1,4 @@
-# 💫 Data Analyst-Software Dev - Economist:
+#  Data Analyst-Software Dev - Economist:
 
 https://waterboxdeveloper.github.io/Portfolio/#portfolio
 
